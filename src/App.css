@@ -104,9 +104,9 @@ body {
   }
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 800px) {
   .card {
     width: 80%;
-    height: 30%;
+    height: 40%;
   }
 }
